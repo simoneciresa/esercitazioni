@@ -1,2 +1,2 @@
 # esercitazioni
-caretlla per le esercitazioni in aula
+cartella per le esercitazioni in aula
